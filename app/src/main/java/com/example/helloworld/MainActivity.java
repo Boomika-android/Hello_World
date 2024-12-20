@@ -9,6 +9,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView txt_view = findViewById(R.id.textView);
-        txt_view.setText(R.string.priya);
     }
 }
